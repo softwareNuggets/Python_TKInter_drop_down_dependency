@@ -1,0 +1,63 @@
+{
+	"USA": {
+		"Alabama": ["Birmingham", "Montgomery", "Mobile", "Huntsville", "Tuscaloosa", "Hoover", "Dothan", "Auburn", "Decatur", "Madison"],
+		"Alaska": ["Anchorage", "Fairbanks", "Juneau", "Sitka", "Ketchikan", "Wasilla", "Kenai", "Kodiak", "Bethel", "Palmer"],
+		"Arizona": ["Phoenix", "Tucson", "Mesa", "Chandler", "Scottsdale", "Gilbert", "Tempe", "Peoria", "Surprise", "Yuma"],
+		"Arkansas": ["Little Rock", "Fort Smith", "Fayetteville", "Springdale", "Jonesboro", "North Little Rock", "Conway", "Rogers", "Pine Bluff", "Bentonville"],
+		"California": ["Los Angeles", "San Francisco", "San Diego", "San Jose", "Fresno", "Sacramento", "Long Beach", "Oakland", "Bakersfield", "Anaheim"],
+		"Colorado": ["Denver", "Colorado Springs", "Aurora", "Fort Collins", "Lakewood", "Thornton", "Westminster", "Arvada", "Pueblo", "Centennial"],
+		"Connecticut": ["Bridgeport", "New Haven", "Hartford", "Stamford", "Waterbury", "Norwalk", "Danbury", "New Britain", "Bristol", "Meriden"],
+		"Delaware": ["Wilmington", "Dover", "Newark", "Middletown", "Smyrna", "Milford", "Seaford", "Georgetown", "Elsmere", "New Castle"],
+		"Florida": ["Miami", "Tampa", "Orlando", "Jacksonville", "St. Petersburg", "Hialeah", "Tallahassee", "Fort Lauderdale", "Port St. Lucie", "Cape Coral"],
+		"Georgia": ["Atlanta", "Augusta", "Columbus", "Macon", "Savannah", "Athens", "Roswell", "Albany", "Johns Creek", "Warner Robins"],
+		"Hawaii": ["Honolulu", "Hilo", "Kailua", "Kapolei", "Pearl City", "Waipahu", "Kaneohe", "Mililani", "Ewa Beach", "Wahiawa"],
+		"New Mexico": ["Albuquerque", "Las Cruces", "Rio Rancho", "Santa Fe", "Roswell", "Farmington", "Clovis", "Hobbs", "Carlsbad", "Gallup"],
+		"New York": ["New York City", "Buffalo", "Rochester", "Yonkers", "Syracuse", "Albany", "New Rochelle", "Mount Vernon", "Schenectady", "Utica"],
+		"New Jersey": ["Newark", "Jersey City", "Paterson", "Elizabeth", "Edison", "Toms River", "Trenton", "Clifton", "Camden", "Cherry Hill"],
+		"Ohio": ["Columbus", "Cleveland", "Cincinnati", "Toledo", "Akron", "Dayton", "Parma", "Canton", "Youngstown", "Lorain"],
+		"Tennessee": ["Nashville", "Memphis", "Knoxville", "Chattanooga", "Clarksville", "Murfreesboro", "Franklin", "Jackson", "Johnson City", "Bartlett"],
+		"Texas": ["Houston", "San Antonio", "Dallas", "Austin", "Fort Worth", "El Paso", "Arlington", "Corpus Christi", "Plano", "Laredo"],
+		"Oklahoma": ["Oklahoma City", "Tulsa", "Norman", "Broken Arrow", "Lawton", "Edmond", "Moore", "Midwest City", "Enid", "Stillwater"],
+		"Utah": ["Salt Lake City", "West Valley City", "Provo", "West Jordan", "Orem", "Sandy", "Ogden", "St. George", "Layton", "Taylorsville"],
+		"South Carolina": ["Columbia", "Charleston", "North Charleston", "Mount Pleasant", "Rock Hill", "Greenville", "Summerville", "Goose Creek", "Hilton Head Island", "Florence"],
+		"North Carolina": ["Charlotte", "Raleigh", "Greensboro", "Durham", "Winston-Salem", "Fayetteville", "Cary", "Wilmington", "High Point", "Asheville"],
+		"Virginia": ["Virginia Beach", "Norfolk", "Chesapeake", "Richmond", "Newport News", "Alexandria", "Hampton", "Roanoke", "Portsmouth", "Suffolk"],
+		"Maryland": ["Baltimore", "Frederick", "Rockville", "Gaithersburg", "Bowie", "Hagerstown", "Annapolis", "College Park", "Laurel", "Greenbelt"],
+		"Kentucky": ["Louisville", "Lexington", "Bowling Green", "Owensboro", "Covington", "Richmond", "Georgetown", "Florence", "Elizabethtown", "Hopkinsville"],
+		"North Dakota": ["Fargo", "Bismarck", "Grand Forks", "Minot", "West Fargo", "Williston", "Mandan", "Dickinson", "Jamestown", "Devils Lake"],
+		"South Dakota": ["Sioux Falls", "Rapid City", "Aberdeen", "Watertown", "Brookings", "Mitchell", "Yankton", "Pierre", "Spearfish", "Huron"],
+		"Louisiana": ["New Orleans", "Baton Rouge", "Shreveport", "Lafayette", "Lake Charles", "Kenner", "Bossier City", "Monroe", "Alexandria", "New Iberia"],
+		"West Virginia": ["Charleston", "Huntington", "Parkersburg", "Morgantown", "Wheeling", "Weirton", "Fairmont", "Beckley", "Martinsburg", "Clarksburg"]
+
+	},
+	"Australia": {
+		"New South Wales": ["Sydney", "Newcastle", "Wollongong"],
+		"Queensland": ["Brisbane", "Gold Coast", "Townsville"],
+		"Victoria": ["Melbourne", "Geelong", "Ballarat"]
+	},
+	"Canada": {
+		"Alberta": ["Calgary", "Edmonton", "Red Deer", "Lethbridge", "Medicine Hat", "Grande Prairie", "Fort McMurray", "Spruce Grove", "Okotoks", "Leduc"],
+		"British Columbia": ["Vancouver", "Victoria", "Kelowna", "Abbotsford", "Kamloops", "Nanaimo", "Prince George", "Chilliwack", "North Vancouver", "Richmond"],
+		"New Brunswick": ["Fredericton", "Saint John", "Moncton", "Miramichi", "Dieppe", "Edmundston", "Bathurst", "Campbellton", "Oromocto", "Shediac"],
+		"Newfoundland and Labrador": ["St. John's", "Mount Pearl", "Corner Brook", "Gander", "Grand Falls-Windsor", "Labrador City", "Stephenville", "Happy Valley-Goose Bay", "Deer Lake", "Clarenville"],
+		"Northwest Territories": ["Yellowknife", "Inuvik", "Hay River", "Fort Smith", "Norman Wells", "Behchoko", "Fort Simpson", "Tuktoyaktuk", "Fort McPherson", "Ulukhaktok"],
+		"Nova Scotia": ["Halifax", "Sydney", "Truro", "New Glasgow", "Glace Bay", "Kentville", "Yarmouth", "Amherst", "Bridgewater", "Digby"],
+		"Nunavut": ["Iqaluit", "Rankin Inlet", "Arctic Bay", "Cape Dorset", "Kugluktuk", "Pangnirtung", "Baker Lake", "Igloolik", "Pond Inlet", "Coral Harbour"],
+		"Ontario": ["Toronto", "Ottawa", "Mississauga", "Hamilton", "Brampton", "London", "Markham", "Vaughan", "Kitchener", "Windsor"],
+		"Prince Edward Island": ["Charlottetown", "Summerside", "Kensington", "Alberton", "Montague", "Souris", "Stratford", "Cornwall", "Georgetown", "Borden-Carleton"],
+		"Quebec": ["Montreal", "Quebec City", "Laval", "Gatineau", "Longueuil", "Sherbrooke", "Saguenay", "Levis", "Trois-Rivieres", "Terrebonne"],
+		"Saskatchewan": ["Saskatoon", "Regina", "Prince Albert", "Moose Jaw", "North Battleford", "Yorkton", "Swift Current", "Estevan", "Weyburn", "Martensville"],
+		"Yukon": ["Whitehorse", "Dawson", "Watson Lake", "Haines Junction", "Carmacks", "Faro", "Teslin", "Mayo", "Carcross", "Old Crow"]
+	},
+	"United Kingdom": {
+		"Eastern Region": ["Cambridge", "Peterborough", "Norwich", "Ipswich", "Colchester", "Chelmsford", "Bedford", "Lowestoft", "Great Yarmouth", "Bury St Edmunds"],
+		"East Midlands Region": ["Leicester", "Nottingham", "Derby", "Lincoln", "Northampton", "Chesterfield", "Mansfield", "Loughborough", "Kettering", "Corby"],
+		"London Region": ["London", "Croydon", "Bromley", "Sutton", "Barking and Dagenham", "Harrow", "Brent", "Ealing", "Hounslow", "Newham"],
+		"North East Region": ["Newcastle upon Tyne", "Sunderland", "Durham", "Middlesbrough", "Darlington", "Gateshead", "South Shields", "Tynemouth", "Wallsend", "Washington"],
+		"North West Region": ["Manchester", "Liverpool", "Wigan", "Bolton", "Blackpool", "Preston", "Bury", "Rochdale", "St Helens", "Stockport"],
+		"South East Region": ["Southampton", "Portsmouth", "Reading", "Maidstone", "Basingstoke", "Crawley", "Worthing", "Eastbourne", "Brighton and Hove", "Milton Keynes"],
+		"South West Region": ["Bristol", "Plymouth", "Bournemouth", "Swindon", "Gloucester", "Cheltenham", "Exeter", "Bath", "Weston-super-Mare", "Taunton"],
+		"West Midlands Region": ["Birmingham", "Coventry", "Wolverhampton", "Dudley", "Walsall", "West Bromwich", "Sutton Coldfield", "Solihull", "Stourbridge", "Halesowen"],
+		"Yorkshire and the Humber Region": ["Leeds", "Sheffield", "Bradford", "Hull", "York", "Doncaster", "Rotherham", "Barnsley", "Harrogate", "Halifax"]
+	}
+}
